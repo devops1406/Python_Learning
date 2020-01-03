@@ -1,2 +1,2 @@
 greeting = input("What is your name: ")
-print(greeting)
+print("Your Name is " + greeting.upper())
