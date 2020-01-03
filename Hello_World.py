@@ -1,3 +1,3 @@
-greeting="Hello World.. Welcome to Python"
+greeting="Hello World... Welcome to Python"
 
 print(greeting)
