@@ -1,1 +1,3 @@
-print "Nandini" * 2
+text = "Nandini"
+
+print (text * 20)
