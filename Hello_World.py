@@ -1,3 +1,3 @@
-text = "Nandini"
+text = "Nandini "
 
-print (text * 20)
+print (text * 200000)
