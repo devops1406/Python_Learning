@@ -1,3 +1,1 @@
-greeting="Hello World.."
-
-print(greeting)
+print "Nandini" * 2
